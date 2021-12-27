@@ -5,7 +5,7 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kiraproject/kira-skin-cancer.git
+https://github.com/Tharushiaka/Indian_Flag.git
 ```
 
 2. Install pygame packages
